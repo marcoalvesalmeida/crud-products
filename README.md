@@ -27,7 +27,7 @@
 
 <!-- GETTING STARTED -->
 ## Getting Started
-Esse projeto foi realizado utilizando: NodeJS, ReactJS, Yarn, StyledComponents, Jsonwebtoken, Squelize, Mysql, Yup, Rocketseat Unform, Bcrypt e Vercel.
+Esse projeto foi realizado utilizando: NodeJS, ReactJS, Eslint, Prettier, Yarn, StyledComponents, Jsonwebtoken, Squelize, Mysql, Yup, Rocketseat Unform, Bcrypt e Vercel.
 
 Para usar a plataforma faça seu cadastro e após faça seu login usando as crendenciais cadastradas. Na Dashboard será possível visualizar todos os produtos e categoria, cadastrar novos, editar e remover.
 
