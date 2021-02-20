@@ -54,4 +54,13 @@ Para começar a utilizar é necessário ter o Node instalado e também é necess
 3. Preencha as infotmações de ambiente nos arquivos `.env` (Que devem ser criados baseando se no .env-example)
    ```JS
    KEY_EXAMPLE=EXAMPLE;
-   ``
+   ```
+   
+4. Na pasta /backend rode:
+   ```sh
+   yarn run dev
+   ```
+5. Na pasta /frontend rode:
+   ```sh
+   yarn start
+   ```
